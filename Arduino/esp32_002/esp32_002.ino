@@ -13,8 +13,8 @@
 #define SERIAL_BAUDRATE 115200
 
 //Wifi Configuration
-String WIFI_SSID = "INVITADOS";
-String WIFI_PASS = "p0rt4f0l10";
+String WIFI_SSID = "SSID";
+String WIFI_PASS = "PASSWORD";
 
 //Servos Configuration
 Adafruit_PWMServoDriver servos_1 = Adafruit_PWMServoDriver(0x41);
